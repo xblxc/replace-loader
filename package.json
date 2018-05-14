@@ -1,5 +1,5 @@
 {
-  "name": "replace-loader",
+  "name": "@away/replace-loader",
   "version": "1.0.0",
   "description": "a string replacement loader for webpack",
   "main": "index.js",
