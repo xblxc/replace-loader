@@ -1,0 +1,27 @@
+{
+  "name": "replace-loader",
+  "version": "1.0.0",
+  "description": "a string replacement loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "webpack-loader",
+    "loader",
+    "replace"
+  ],
+  "author": "xblxc",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "schema-utils": "^0.4.5"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "expect": "^22.4.3",
+    "memory-fs": "^0.4.1",
+    "mocha": "^5.1.1",
+    "webpack": "^4.8.1"
+  }
+}
