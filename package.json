@@ -12,6 +12,10 @@
     "replace"
   ],
   "author": "xblxc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xblxc/replace-loader.git"
+  },
   "license": "MIT",
   "dependencies": {
     "loader-utils": "^1.1.0",
